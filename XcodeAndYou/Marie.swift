@@ -1,5 +1,5 @@
 //
-//  SwiftUIView.swift
+//  Marie.swift
 //  XcodeAndYou
 //
 //  Created by Apprenant 11 on 16/06/2022.
@@ -7,14 +7,14 @@
 
 import SwiftUI
 
-struct SwiftUIView: View {
+struct Marie: View {
     var body: some View {
-        Text("Marie was here!")
+        Text("Marie was here!!")
     }
 }
 
-struct SwiftUIView_Previews: PreviewProvider {
+struct Marie_Previews: PreviewProvider {
     static var previews: some View {
-        SwiftUIView()
+        Marie()
     }
 }
